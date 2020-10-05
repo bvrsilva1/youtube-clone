@@ -14,6 +14,7 @@ function RecommendedVideos() {
         <Video />
         <Video />
         <Video />
+        <Video />
       </div>
     </div>
   )
