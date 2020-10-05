@@ -1,0 +1,26 @@
+.video {
+  width: 270px;
+  margin-bottom: 40px;
+  margin-right: 10px;
+}
+.video > img {
+  height: 140px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+.video__content {
+  display: flex;
+}
+.video__contentRight {
+  margin-left: 10px;
+}
+.video__contentRightTitle {
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 5px;
+  padding-right: 30px;
+}
+.video__contentRightInfo {
+  font-size: 14px;
+  color: gray;
+}
